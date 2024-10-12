@@ -22,13 +22,13 @@ The Library Management System is a simple tool to manage books in a library. Usi
 ## Installation
 
 1. Clone the repository or download the source code.
-2. Ensure you have [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) installed on your system.
-3. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
+2. Ensure you have [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) installed on your system [If not install from the link].
+3. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse,VScode).
 4. Run the program to launch the Library Management System GUI.
 
 ## Usage
 
-1. Launch the program, and the main window will display the available functionalities such as adding books, searching, viewing the book list, and checking availability.
+1. The main window will display the available functionalities such as adding books, searching, viewing the book list, and checking availability.
 2. Use the "Add Book" option to input book details such as name, author, ISBN, genre, and publication year.
 3. View and manage all added books using the book list feature, which shows a detailed report.
 4. Search for specific books using the search bar, where you can find books by title, author, or ISBN.
