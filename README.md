@@ -23,7 +23,7 @@ The Library Management System is a simple tool to manage books in a library. Usi
 
 1. Clone the repository or download the source code.
 2. Ensure you have [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) installed on your system.
-3. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse,VScode[I used VScode]).
+3. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse,VScode).
 4. Run the program to launch the Library Management System GUI.
 
 ## Usage
