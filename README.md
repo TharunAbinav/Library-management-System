@@ -8,6 +8,7 @@ The Library Management System is a simple tool to manage books in a library. Usi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
+- [Screenshot](#Screenshot)
 - [Credits](#credits)
 - [License](#license)
 
@@ -40,6 +41,11 @@ The Library Management System is a simple tool to manage books in a library. Usi
 - **Java Swing**: Used for creating the graphical user interface (GUI).
 - **OOP Concepts**: Applied to design the structure of the system, including classes for books and operations.
 - **Hashing**: Utilized to store and retrieve book information efficiently.
+
+## Screenshot
+
+![alt text]([https://github.com/TharunAbinav/Library-management-System/blob/main/javaeg.png])
+https://github.com/TharunAbinav/Library-management-System/blob/main/javaeg.png
 
 ## Credits
 
