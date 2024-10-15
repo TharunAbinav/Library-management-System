@@ -44,7 +44,7 @@ The Library Management System is a simple tool to manage books in a library. Usi
 
 ## Screenshot
 
-![alt text]([https://github.com/TharunAbinav/Library-management-System/blob/main/javaeg.png])
+![alt text](https://github.com/TharunAbinav/Library-management-System/blob/main/javaeg.png)
 https://github.com/TharunAbinav/Library-management-System/blob/main/javaeg.png
 
 ## Credits
